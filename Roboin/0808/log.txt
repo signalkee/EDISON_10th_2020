@@ -1,0 +1,464 @@
+how_many_redcnt: 0
+forward 468.0 2028.0 2037.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.2014005184173584
+how_many_redcnt: 0
+forward 468.0 2064.0 1929.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.02308034896850586
+how_many_redcnt: 0
+forward 468.0 2112.0 1776.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01896190643310547
+how_many_redcnt: 0
+forward 468.0 2265.0 1890.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020086288452148438
+how_many_redcnt: 0
+left 468.0 2382.0 1644.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01941061019897461
+how_many_redcnt: 0
+left 465.0 2358.0 1506.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.019452810287475586
+how_many_redcnt: 0
+left 468.0 2367.0 1605.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.019184112548828125
+how_many_redcnt: 0
+forward 468.0 2358.0 1794.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01996898651123047
+how_many_redcnt: 0
+forward 465.0 2382.0 2034.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.021523714065551758
+how_many_redcnt: 0
+forward 468.0 2379.0 2223.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.027585268020629883
+how_many_redcnt: 0
+forward 432.0 2298.0 2058.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.0310208797454834
+how_many_redcnt: 0
+forward 408.0 2217.0 1959.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020256996154785156
+how_many_redcnt: 0
+forward 384.0 2109.0 1836.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01917743682861328
+how_many_redcnt: 0
+forward 369.0 2067.0 1725.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.018505334854125977
+how_many_redcnt: 0
+forward 333.0 1914.0 1563.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.017325401306152344
+how_many_redcnt: 0
+forward 306.0 1836.0 1395.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01633739471435547
+how_many_redcnt: 0
+left 240.0 1578.0 1104.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.014135599136352539
+how_many_redcnt: 0
+left 171.0 1320.0 786.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011989831924438477
+how_many_redcnt: 0
+left 165.0 1305.0 726.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.012002706527709961
+how_many_redcnt: 0
+left 147.0 1260.0 645.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011479377746582031
+how_many_redcnt: 0
+left 123.0 1248.0 444.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.013781070709228516
+how_many_redcnt: 0
+left 132.0 1458.0 372.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010938405990600586
+how_many_redcnt: 0
+left 132.0 1509.0 351.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011097431182861328
+how_many_redcnt: 0
+left 156.0 1614.0 414.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011737585067749023
+how_many_redcnt: 0
+left 180.0 1710.0 477.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.012273073196411133
+how_many_redcnt: 0
+left 201.0 1821.0 483.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.023102283477783203
+how_many_redcnt: 0
+left 315.0 2163.0 882.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.015702247619628906
+how_many_redcnt: 0
+left 408.0 2253.0 1218.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.02718067169189453
+how_many_redcnt: 0
+left 435.0 2214.0 1545.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01866626739501953
+how_many_redcnt: 0
+forward 456.0 2268.0 1833.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.03984260559082031
+how_many_redcnt: 0
+forward 456.0 1818.0 2214.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.019616365432739258
+how_many_redcnt: 0
+right 468.0 1509.0 2355.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.028898239135742188
+how_many_redcnt: 0
+right 447.0 1428.0 2274.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.018399953842163086
+how_many_redcnt: 0
+forward 444.0 1749.0 2226.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.029633045196533203
+how_many_redcnt: 0
+forward 432.0 2265.0 2151.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.021343469619750977
+how_many_redcnt: 0
+forward 432.0 2220.0 2049.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.031038522720336914
+how_many_redcnt: 0
+forward 423.0 2130.0 1917.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01960301399230957
+how_many_redcnt: 0
+forward 399.0 1965.0 1800.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.028638601303100586
+how_many_redcnt: 0
+forward 393.0 1923.0 1692.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01801300048828125
+how_many_redcnt: 0
+forward 369.0 1788.0 1569.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.016953229904174805
+how_many_redcnt: 0
+forward 327.0 1635.0 1395.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01570439338684082
+how_many_redcnt: 0
+forward 291.0 1479.0 1236.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01433706283569336
+how_many_redcnt: 0
+forward 264.0 1299.0 1056.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.013002872467041016
+how_many_redcnt: 0
+left 195.0 1011.0 687.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010656595230102539
+how_many_redcnt: 0
+left 189.0 942.0 612.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.018849849700927734
+how_many_redcnt: 0
+backward 99.0 603.0 225.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.007133007049560547
+how_many_redcnt: 0
+backward 72.0 510.0 189.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.006742715835571289
+how_many_redcnt: 0
+backward 57.0 471.0 165.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.006253242492675781
+how_many_redcnt: 0
+backward 33.0 417.0 120.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.008152008056640625
+how_many_redcnt: 0
+backward 0.0 315.0 24.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.00500035285949707
+how_many_redcnt: 0
+backward 0.0 462.0 21.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.005791664123535156
+how_many_redcnt: 0
+backward 12.0 567.0 63.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.006101131439208984
+how_many_redcnt: 0
+backward 27.0 678.0 102.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.006770133972167969
+how_many_redcnt: 0
+left 51.0 801.0 192.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010570287704467773
+how_many_redcnt: 0
+left 69.0 939.0 270.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008996963500976562
+how_many_redcnt: 0
+left 75.0 999.0 279.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011589765548706055
+how_many_redcnt: 0
+left 57.0 930.0 156.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.00792384147644043
+how_many_redcnt: 0
+left 30.0 846.0 39.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.007168292999267578
+how_many_redcnt: 0
+left 48.0 1005.0 81.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008178472518920898
+how_many_redcnt: 0
+left 60.0 1113.0 129.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008774995803833008
+how_many_redcnt: 0
+left 72.0 1230.0 150.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.009350299835205078
+how_many_redcnt: 0
+left 99.0 1389.0 216.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.016876935958862305
+how_many_redcnt: 0
+left 204.0 1923.0 588.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.013818025588989258
+how_many_redcnt: 0
+left 282.0 2214.0 843.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.018107891082763672
+how_many_redcnt: 0
+left 390.0 2370.0 1146.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.017446279525756836
+how_many_redcnt: 0
+left 468.0 2286.0 1539.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01890277862548828
+how_many_redcnt: 0
+forward 468.0 2118.0 1941.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.021356582641601562
+how_many_redcnt: 0
+forward 468.0 1722.0 2232.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01963973045349121
+how_many_redcnt: 0
+right 468.0 1509.0 2352.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.02652597427368164
+how_many_redcnt: 0
+right 468.0 1260.0 2412.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01943039894104004
+how_many_redcnt: 0
+right 468.0 1485.0 2424.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.025774240493774414
+how_many_redcnt: 0
+forward 468.0 1818.0 2265.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.02262115478515625
+how_many_redcnt: 0
+forward 468.0 2157.0 2040.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.02059006690979004
+how_many_redcnt: 0
+forward 468.0 2304.0 1797.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.021342039108276367
+how_many_redcnt: 0
+left 468.0 2325.0 1713.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.020058870315551758
+how_many_redcnt: 0
+left 468.0 2316.0 1617.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.027297019958496094
+how_many_redcnt: 0
+forward 468.0 2298.0 1755.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.019894123077392578
+how_many_redcnt: 0
+forward 468.0 2229.0 2196.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.02588939666748047
+how_many_redcnt: 0
+forward 468.0 2040.0 2457.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.0317380428314209
+how_many_redcnt: 0
+forward 468.0 1977.0 2454.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.0218050479888916
+how_many_redcnt: 0
+forward 447.0 1923.0 2391.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.027634382247924805
+how_many_redcnt: 0
+forward 396.0 1716.0 2145.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01935434341430664
+how_many_redcnt: 0
+forward 417.0 1839.0 2220.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.029894351959228516
+how_many_redcnt: 0
+forward 363.0 1608.0 1965.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01818060874938965
+how_many_redcnt: 0
+forward 309.0 1377.0 1701.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01829981803894043
+how_many_redcnt: 0
+forward 288.0 1263.0 1590.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.019438505172729492
+how_many_redcnt: 0
+right 240.0 1125.0 1404.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01391458511352539
+how_many_redcnt: 0
+right 189.0 894.0 1185.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.016935348510742188
+how_many_redcnt: 0
+right 132.0 732.0 1029.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01125478744506836
+how_many_redcnt: 0
+right 120.0 672.0 1011.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010872602462768555
+how_many_redcnt: 0
+backward 99.0 594.0 993.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.013973474502563477
+how_many_redcnt: 1
+right 108.0 474.0 1164.0 redcnt: 1 ctrl_output: 35 flag: 0
+total: 0.01050257682800293
+how_many_redcnt: 8
+right 108.0 447.0 1242.0 redcnt: 8 ctrl_output: 35 flag: 0
+total: 0.010653495788574219
+how_many_redcnt: 5
+right 123.0 465.0 1341.0 redcnt: 5 ctrl_output: 35 flag: 0
+total: 0.011109590530395508
+how_many_redcnt: 5
+right 132.0 438.0 1383.0 redcnt: 5 ctrl_output: 35 flag: 0
+total: 0.01466822624206543
+how_many_redcnt: 1
+right 132.0 432.0 1395.0 redcnt: 1 ctrl_output: 35 flag: 0
+total: 0.011928558349609375
+how_many_redcnt: 1
+right 132.0 426.0 1404.0 redcnt: 1 ctrl_output: 35 flag: 0
+total: 0.011019706726074219
+how_many_redcnt: 3
+right 132.0 408.0 1410.0 redcnt: 3 ctrl_output: 35 flag: 0
+total: 0.01157069206237793
+how_many_redcnt: 3
+right 132.0 399.0 1431.0 redcnt: 3 ctrl_output: 35 flag: 0
+total: 0.011469125747680664
+how_many_redcnt: 3
+right 144.0 384.0 1545.0 redcnt: 3 ctrl_output: 35 flag: 0
+total: 0.01171875
+how_many_redcnt: 4
+right 156.0 390.0 1605.0 redcnt: 4 ctrl_output: 35 flag: 0
+total: 0.01223611831665039
+how_many_redcnt: 0
+right 177.0 420.0 1704.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.012233972549438477
+how_many_redcnt: 0
+right 237.0 531.0 1944.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.016286611557006836
+how_many_redcnt: 0
+right 318.0 759.0 2130.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.015925884246826172
+how_many_redcnt: 0
+right 378.0 948.0 2187.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.02382183074951172
+how_many_redcnt: 0
+right 387.0 1134.0 2196.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01803302764892578
+how_many_redcnt: 0
+right 420.0 1398.0 2271.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.021664142608642578
+how_many_redcnt: 0
+right 438.0 1596.0 2283.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.025538921356201172
+how_many_redcnt: 0
+forward 426.0 1776.0 2307.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020375490188598633
+how_many_redcnt: 0
+forward 420.0 1887.0 2340.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.030801057815551758
+how_many_redcnt: 0
+forward 399.0 1839.0 2271.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020028114318847656
+how_many_redcnt: 6
+forward 399.0 1878.0 2280.0 redcnt: 6 ctrl_output: 3 flag: 0
+total: 0.027039527893066406
+how_many_redcnt: 1
+forward 396.0 1869.0 2286.0 redcnt: 1 ctrl_output: 3 flag: 0
+total: 0.020409107208251953
+how_many_redcnt: 2
+forward 381.0 1779.0 2226.0 redcnt: 2 ctrl_output: 3 flag: 0
+total: 0.03545689582824707
+how_many_redcnt: 0
+forward 333.0 1635.0 2004.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01822352409362793
+how_many_redcnt: 0
+forward 321.0 1551.0 1977.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.017644166946411133
+how_many_redcnt: 0
+forward 267.0 1323.0 1728.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.015949010848999023
+how_many_redcnt: 0
+right 222.0 1119.0 1512.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.024300098419189453
+how_many_redcnt: 0
+right 144.0 768.0 1146.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01132822036743164
+how_many_redcnt: 0
+right 141.0 741.0 1158.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01117563247680664
+how_many_redcnt: 0
+right 117.0 615.0 1068.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011261463165283203
+how_many_redcnt: 0
+backward 78.0 432.0 915.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.019143342971801758
+how_many_redcnt: 0
+right 48.0 186.0 915.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008100509643554688
+how_many_redcnt: 0
+right 36.0 171.0 918.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.007925748825073242
+how_many_redcnt: 0
+right 24.0 162.0 894.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008005142211914062
+how_many_redcnt: 0
+right 12.0 159.0 879.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010675668716430664
+how_many_redcnt: 0
+right 12.0 159.0 933.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.008027791976928711
+how_many_redcnt: 0
+right 27.0 162.0 1167.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.00925302505493164
+how_many_redcnt: 0
+right 33.0 162.0 1266.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.009476900100708008
+how_many_redcnt: 0
+right 45.0 168.0 1347.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.010014533996582031
+how_many_redcnt: 0
+right 60.0 174.0 1458.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011940717697143555
+how_many_redcnt: 0
+right 96.0 198.0 1698.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01136326789855957
+how_many_redcnt: 0
+right 108.0 207.0 1767.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.011553287506103516
+how_many_redcnt: 0
+right 138.0 240.0 1875.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.01212763786315918
+how_many_redcnt: 0
+right 216.0 339.0 2106.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.013403892517089844
+how_many_redcnt: 0
+right 321.0 561.0 2316.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.015447378158569336
+how_many_redcnt: 0
+right 387.0 708.0 2400.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.016022682189941406
+how_many_redcnt: 0
+right 462.0 960.0 2439.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.017224550247192383
+how_many_redcnt: 0
+right 468.0 1254.0 2397.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.02613210678100586
+how_many_redcnt: 0
+forward 468.0 1698.0 2268.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.01946234703063965
+how_many_redcnt: 0
+forward 468.0 1953.0 2100.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.029469966888427734
+how_many_redcnt: 0
+forward 468.0 2145.0 1902.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.02001190185546875
+how_many_redcnt: 0
+left 468.0 2283.0 1677.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.023926734924316406
+how_many_redcnt: 0
+left 468.0 2307.0 1581.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.023079872131347656
+how_many_redcnt: 0
+left 468.0 2289.0 1635.0 redcnt: 0 ctrl_output: 35 flag: 0
+total: 0.019626617431640625
+how_many_redcnt: 0
+forward 468.0 2163.0 1779.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020040512084960938
+how_many_redcnt: 0
+forward 468.0 1974.0 2046.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.0202333927154541
+how_many_redcnt: 0
+forward 468.0 1866.0 2160.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.0315706729888916
+how_many_redcnt: 0
+forward 468.0 1848.0 2094.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020113468170166016
+how_many_redcnt: 0
+forward 468.0 1890.0 2088.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.028143882751464844
+how_many_redcnt: 0
+forward 468.0 1917.0 2106.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020528793334960938
+how_many_redcnt: 0
+forward 468.0 1902.0 2037.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.029152631759643555
+how_many_redcnt: 0
+forward 468.0 1974.0 2088.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.020627498626708984
+how_many_redcnt: 0
+forward 468.0 1941.0 2109.0 redcnt: 0 ctrl_output: 3 flag: 0
+total: 0.023077726364135742
+how_many_redcnt: 0
+forward 468.0 1974.0 1986.0 redcnt: 0 ctrl_output: 3
